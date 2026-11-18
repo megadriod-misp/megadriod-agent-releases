@@ -1,1 +1,1 @@
-# megadriod-agent-releases
+A centralized IT infrastructure and security management platform that enables organizations to manage hardware, software, operating systems, networks, databases, applications and IT support operations while maintaining visibility into their infrastructure's security and operational health.
